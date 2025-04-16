@@ -60,7 +60,7 @@ while(true){
 
 
 
-## Step 5: 5: Full Working Code
+## Step 5: Full Working Code
 Combining all the steps above, here's the complete example:
 ``` java
 public class Main

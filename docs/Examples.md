@@ -1,7 +1,7 @@
 ## 🧬 Conway's Game of Life — Glider Gun Simulation Tutorial 
 n this example, we'll simulate multiple glider guns using the classic Conway's Game of Life rules, which demonstrate how simple rules can create complex, fascinating behavior.
 
-### Step 1: Define the Glider Gun Pattern
+## Step 1: Define the Glider Gun Pattern
 A glider gun is a special pattern that periodically emits "gliders"—small structures that move diagonally across the grid. The most famous is the Gosper Glider Gun, which creates a new glider every 30 generations.
 <p align="center">
   <img src="source_images/gliderGun.jpeg" alt="image of a glider gun" width="150">
